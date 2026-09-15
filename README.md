@@ -23,6 +23,9 @@ Uma aplicação de terminal desenvolvida em Java para praticar e aprimorar funda
 - 🔐 **Limite de Tentativas no Login:** Implementado controle de tentativas. O usuário possui no máximo **3 tentativas** para acertar as credenciais antes que o acesso seja bloqueado.
 - ⚡ **Operação de Potenciação (`^`):** Adicionada a funcionalidade de calcular a potência entre a base e o expoente.
 - ➗ **Resto da Divisão:** Ao realizar uma divisão, o sistema exibe o quociente e também calcula e exibe o **resto da divisão** (`%`).
+15/09/2026
+- Adiciona Novas operações como: Valor da Constante PI, Raiz quadrada e Raiz Cúbica.
+- Adiciona nova interface para escolha da operação.
 
 ---
 
